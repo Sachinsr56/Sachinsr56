@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinsr56&label=Profile%20views&color=0e75b6&style=flat" alt="sachinsr56" /> </p>
 
-- 📫 How to reach me **sachinkumarhas@gmail.com**
+# 💫 About Me:
+🔭 I’m currently pursing B-Tech from NIT KURUKSHETRA<br><br>🌱 I’m currently learning Full stack development<br><br>💬 Ask me about HTML, CSS, Javascript, MERN, Data Structures and Algorithms<br><br>📫 How to reach me **sachinkumarhas@gmail.com<br><br>⚡ About Me Future Engineer. I am currently a third-year student at NIT Kurukshetra who focuses on Electrical and Programming skills to solve modern-day problems.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
